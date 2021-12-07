@@ -1,0 +1,180 @@
+[7] Log opened at 2021-12-04 12:38:35.208293
+[7] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[7] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2021-12-04 12:38:35.491041
+
+[9] Log opened at 2021-12-04 12:40:20.977400
+[9] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[9] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[9] Log closed at 2021-12-04 12:40:21.229242
+
+[86] Log opened at 2021-12-04 12:46:01.559560
+[86] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[86] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[86] Log closed at 2021-12-04 12:46:01.816544
+
+[87] Log opened at 2021-12-04 12:48:32.265593
+[87] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[87] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[87] Log closed at 2021-12-04 12:48:32.508374
+
+[88] Log opened at 2021-12-04 12:50:56.285234
+[88] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[88] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[88] Log closed at 2021-12-04 12:50:56.547193
+
+[89] Log opened at 2021-12-04 12:55:20.329552
+[89] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[89] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[89] Log closed at 2021-12-04 12:55:20.560515
+
+[90] Log opened at 2021-12-04 12:55:30.879837
+[90] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[90] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[90] Log closed at 2021-12-04 12:55:31.143305
+
+[8] Log opened at 2021-12-04 13:08:40.210456
+[8] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[8] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2021-12-04 13:08:40.432890
+
+[91] Log opened at 2021-12-04 13:14:29.302063
+[91] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[91] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[91] Log closed at 2021-12-04 13:14:29.551152
+
+[92] Log opened at 2021-12-04 13:21:17.844364
+[92] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[92] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[92] Log closed at 2021-12-04 13:21:18.069517
+
+[93] Log opened at 2021-12-04 13:21:42.722378
+[93] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[93] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[93] Log closed at 2021-12-04 13:21:42.935422
+
+[94] Log opened at 2021-12-04 13:21:51.809759
+[94] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[94] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[94] Log closed at 2021-12-04 13:21:52.125093
+
+[10] Log opened at 2021-12-04 13:23:03.167297
+[10] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[10] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[10] Log closed at 2021-12-04 13:23:03.414043
+
+[11] Log opened at 2021-12-04 13:23:09.940240
+[11] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[11] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[11] Log closed at 2021-12-04 13:23:10.198754
+
+[84] Log opened at 2021-12-04 13:24:29.857110
+[84] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[84] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[84] Log closed at 2021-12-04 13:24:30.136327
+
+[7] Log opened at 2021-12-04 13:24:38.968421
+[7] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[7] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2021-12-04 13:24:39.224786
+
+[9] Log opened at 2021-12-04 13:24:44.093373
+[9] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[9] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[9] Log closed at 2021-12-04 13:24:44.369854
+
+[8] Log opened at 2021-12-04 13:24:49.154915
+[8] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[8] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2021-12-04 13:24:49.430295
+
+[95] Log opened at 2021-12-04 13:26:54.931169
+[95] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[95] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[95] Log closed at 2021-12-04 13:26:55.167098
+
+[96] Log opened at 2021-12-04 13:27:48.522092
+[96] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[96] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[96] Log closed at 2021-12-04 13:27:48.790643
+
+[10] Log opened at 2021-12-04 13:31:21.589644
+[10] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[10] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[10] Log closed at 2021-12-04 13:31:21.885859
+
+[11] Log opened at 2021-12-04 13:31:26.957834
+[11] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[11] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[11] Log closed at 2021-12-04 13:31:27.206634
+
+[84] Log opened at 2021-12-04 13:31:30.661802
+[84] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[84] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[84] Log closed at 2021-12-04 13:31:30.915254
+
+[22] Log opened at 2021-12-05 11:27:18.551355
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[22] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[22] Log closed at 2021-12-05 11:27:18.759464
+
+[25] Log opened at 2021-12-05 11:35:50.698766
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[25] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[25] Log closed at 2021-12-05 11:36:21.310638
+
+[88] Log opened at 2021-12-05 11:36:36.460770
+[88] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[88] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[88] Log closed at 2021-12-05 11:36:36.674575
+
+[91] Log opened at 2021-12-05 12:58:17.598350
+[91] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[91] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[91] Log closed at 2021-12-05 12:58:17.808780
+
+[92] Log opened at 2021-12-05 12:58:33.229509
+[92] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[92] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[92] Log closed at 2021-12-05 12:58:46.863243
+
+[93] Log opened at 2021-12-05 12:58:56.265840
+[93] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[93] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[93] Log closed at 2021-12-05 12:58:56.497159
+
+[94] Log opened at 2021-12-05 13:02:37.402356
+[94] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[94] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[94] Log closed at 2021-12-05 13:02:37.662342
+
+[95] Log opened at 2021-12-05 13:17:47.789070
+[95] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[95] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[95] Log closed at 2021-12-05 13:17:48.003774
+
+[18] Log opened at 2021-12-05 14:26:15.979567
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[18] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[18] Log closed at 2021-12-05 14:26:31.781094
+
+[7] Log opened at 2021-12-05 14:28:32.770285
+[7] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[7] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2021-12-05 14:28:33.220550
+
+[8] Log opened at 2021-12-05 14:30:43.049560
+[8] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[8] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2021-12-05 14:30:43.349301
+
+[9] Log opened at 2021-12-05 14:30:45.703528
+[9] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[9] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[9] Log closed at 2021-12-05 14:30:45.935717
+
+[10] Log opened at 2021-12-05 14:31:53.499303
+[10] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9001.
+[10] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[10] Log closed at 2021-12-05 14:31:53.846922
+

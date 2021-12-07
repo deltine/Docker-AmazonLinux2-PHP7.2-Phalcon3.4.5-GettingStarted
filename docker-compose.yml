@@ -1,0 +1,52 @@
+version: '3.6'
+services:
+    web:
+      container_name: "amazonlinux2-nginx"
+      build: "./data/nginx"
+      restart: always
+      volumes:
+          - ./htdocs/:/var/www/html/
+          - ./data/nginx/conf/nginx.conf:/etc/nginx/nginx.conf
+          - ./log/nginx:/var/log/nginx/
+      ports:
+          - "8081:80"
+      depends_on:
+        - php
+
+    php:
+      container_name: "amazonlinux2-phpfpm"
+      build: "./data/php-fpm/"
+      restart: always
+      environment:
+        TZ: "Asia/Tokyo"
+      volumes:
+        - ./htdocs/:/var/www/html/
+        - ./data/php-fpm/conf/php.ini:/etc/php.ini
+        - ./data/php-fpm/conf/www.conf:/etc/php-fpm.d/www.conf
+        # - ./data/php-fpm/conf/xdebug.ini:/etc/php.d/xdebug.ini
+        - ./data/php-fpm/mods/psr.ini:/etc/php.d/20-psr.ini
+        - ./data/php-fpm/mods/phalcon.ini:/etc/php.d/50-phalcon.ini
+        - ./log/php-fpm:/var/log/php-fpm
+      depends_on:
+        - db
+      ports:
+        - "9000:80"
+
+    db:
+      image: mariadb
+      restart: always
+      environment:
+        - MYSQL_DATABASE=mydb
+        - MYSQL_USER=user
+        - MYSQL_PASSWORD=password
+        - MYSQL_ROOT_PASSWORD=password
+      volumes:
+        - db_mysql_data:/var/lib/mysql/
+        - ./data/mysql/config:/etc/mysql/conf.d/
+      expose:
+        - "3307"
+      ports:
+        - "3307:3306"
+
+volumes:
+  db_mysql_data:
