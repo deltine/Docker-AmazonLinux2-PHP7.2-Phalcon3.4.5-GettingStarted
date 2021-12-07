@@ -254,19 +254,15 @@ docker container up -d
 
 ##コード補完
 
-[PhpStorm 2021.3][:PhpStorm:]でコード補完が出来ます。<br>
-Phalcon3.4.5環境ですがコード補完ができるのはPhalcon3.1までの様なので注意です。<br>
+[PhpStorm][:PhpStorm:]でコード補完が出来ます。<br>
 
-1. PhpStormでプロジェクトを開く
-2. 「外部ライブラリ」を左クリックし、「PHP インクルードパスの構成」を押下
+1. PhpStormでプロジェクトを開きます。
+2. 「設定」を開きます。
 　　<img src="data\github\img1.png" />
-3. 「インクルードパス」の「プラスボタン」を押下し、以下のフォルダをインクルードする<br>
-   ideフォルダは[こちら][:reference2:]です。<br>
-   Phalcon3.1以降のコード補完が可能か未確認です。
-```bash
-   data/PhpStorm/ide
-```
+3. 「プラグイン」の歯車マークを押下し、「ディスクからプラグインをインストール」を押下します。
    <img src="data\github\img2.png" />
+4. 「data\PhpStorm\phpstorm-library-plugin.jar」を選択し、「OK」を押下します。
+   <img src="data\github\img3.png" />
 
 [:phalcon:]:          https://github.com/phalcon/cphalcon
 [:docker:]:           https://www.docker.com
@@ -276,4 +272,3 @@ Phalcon3.4.5環境ですがコード補完ができるのはPhalcon3.1までの�
 [:demo1:]:            http://localhost:8081
 [:demo2:]:            http://localhost:8081/sample/search
 [:reference1:]:       https://nishinatoshiharu.com/docker-volume-tutorial
-[:reference2:]:       https://github.com/phalcon/phalcon-devtools/tree/3.1.x/ide
